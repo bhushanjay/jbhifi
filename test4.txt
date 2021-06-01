@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is first june file in master branch
+=======
+This is first june class for git
+
